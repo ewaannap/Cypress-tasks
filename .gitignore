@@ -1,0 +1,11 @@
+/node_modules
+/.vscode
+/.vs
+package.cache.json
+stats.json
+yarn-error.log
+/environments.json
+.idea
+db.json
+*.mp4
+*.png
